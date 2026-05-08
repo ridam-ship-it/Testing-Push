@@ -7,3 +7,5 @@
 # something else
 
 # Ammend in the second commit
+
+# Third commit
